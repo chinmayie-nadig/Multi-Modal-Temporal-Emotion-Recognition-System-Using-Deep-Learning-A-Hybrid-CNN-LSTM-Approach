@@ -5,15 +5,20 @@ This project is an Emotion Recognition System that detects and classifies human 
 Features
 
 ->Real-time emotion detection using a webcam
+
 ->Testing backbone models for emotion recognition
+
 ->Evaluating temporal models on video input
+
 ->Face detection and preprocessing
+
 ->Experimenting with TensorFlow and PyTorch models
+
 ->Validation on the AffectNet dataset
 
 Project Structure
 
-📁 final_yr_prjct_grand_finale  
+📁 Multi-Modal-Temporal-Emotion-Recognition-System-Using-Deep-Learning-A-Hybrid-CNN-LSTM-Approach
 ├── check_backbone_models_by_webcam.ipynb   # Test backbone models with webcam input  
 ├── check_temporal_models_by_video_multi.ipynb  # Evaluate temporal models on video  
 ├── check_temporal_models_by_webcam.ipynb  # Test temporal models with webcam  
@@ -26,17 +31,25 @@ Project Structure
 Requirements
 
 ->Python 3.8+
+
 ->TensorFlow
+
 ->PyTorch
+
 ->OpenCV
+
 ->NumPy
+
 ->Pandas
 
 Contributors
 
 Prajwal C S
-Tameem Abrar Ul Haq 
+
+Tameem Abrar Ul Haq
+
 Chinmayie S M Nadig
+
 Arpitha R               
 
 
